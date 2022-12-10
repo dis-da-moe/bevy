@@ -1,4 +1,4 @@
-use raw_window_handle::{
+pub use raw_window_handle::{
     HasRawDisplayHandle, HasRawWindowHandle, RawDisplayHandle, RawWindowHandle,
 };
 
